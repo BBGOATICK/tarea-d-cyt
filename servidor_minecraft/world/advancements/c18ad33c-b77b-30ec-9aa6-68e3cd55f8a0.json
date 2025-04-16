@@ -2070,6 +2070,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-16 15:12:08 +0000",
       "minecraft:skeleton": "2025-04-15 20:54:21 +0000",
       "minecraft:spider": "2025-04-15 20:54:47 +0000",
       "minecraft:creeper": "2025-04-15 21:45:01 +0000",
@@ -3181,6 +3182,30 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-16 14:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 15:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 15:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 15:00:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/smooth_stone_post": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-16 15:00:47 +0000"
     },
     "done": true
   },
