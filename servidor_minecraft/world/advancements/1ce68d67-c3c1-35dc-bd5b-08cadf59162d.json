@@ -2372,6 +2372,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 18:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-16 18:46:44 +0000"
@@ -2489,6 +2495,12 @@
   "adorn:recipes/diorite_post": {
     "criteria": {
       "has_diorite": "2025-04-16 18:43:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 18:53:17 +0000"
     },
     "done": true
   },
