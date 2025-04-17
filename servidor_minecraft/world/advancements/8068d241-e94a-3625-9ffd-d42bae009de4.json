@@ -64,6 +64,7 @@
       "minecraft:birch_forest": "2025-04-17 03:02:41 +0000",
       "minecraft:beach": "2025-04-17 03:18:14 +0000",
       "minecraft:river": "2025-04-16 18:49:46 +0000",
+      "minecraft:stony_shore": "2025-04-17 23:31:41 +0000",
       "minecraft:forest": "2025-04-16 18:45:18 +0000",
       "minecraft:plains": "2025-04-16 18:46:36 +0000"
     },
@@ -3335,15 +3336,51 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-17 22:26:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/diorite_lantern": {
     "criteria": {
       "has_diorite_slab": "2025-04-17 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
     },
     "done": true
   },
@@ -3383,6 +3420,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/diorite_step": {
     "criteria": {
       "has_slab": "2025-04-17 22:57:42 +0000"
@@ -3405,9 +3454,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/trading_station": {
     "criteria": {
       "has_emerald": "2025-04-17 22:18:10 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
     },
     "done": true
   },
@@ -3417,9 +3490,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/diorite_platform": {
     "criteria": {
       "has_slab": "2025-04-17 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
     },
     "done": true
   },
@@ -3444,6 +3547,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
     },
     "done": true
   },
@@ -3477,6 +3586,18 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-17 22:14:17 +0000"
@@ -3486,6 +3607,30 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:45:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-17 23:28:39 +0000"
     },
     "done": true
   },

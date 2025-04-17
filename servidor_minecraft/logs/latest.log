@@ -1623,3 +1623,43 @@ ModdedBiomeSource (574fd239)
 [17Apr2025 23:21:23.499] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
 [17Apr2025 23:21:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was shot by Chagrin Sentry
 [17Apr2025 23:21:43.550] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 23:22:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was shot by Chagrin Sentry
+[17Apr2025 23:22:12.353] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 23:23:15.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47049, l='ServerLevel[world]', x=29.52, y=-256.00, z=-170.97] died, message: 'Villager was killed'
+[17Apr2025 23:24:14.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was shot by Skeleton
+[17Apr2025 23:24:14.254] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 23:25:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was blown up by Skeleton Creeper
+[17Apr2025 23:25:12.605] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 23:26:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 23:26:39.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: minecraft:kill @e[type=pillager]<--[HERE]
+[17Apr2025 23:27:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 23:27:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kil @a<--[HERE]
+[17Apr2025 23:27:39.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was killed
+[17Apr2025 23:27:39.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was killed
+[17Apr2025 23:27:39.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 2 entities
+[17Apr2025 23:27:39.349] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 23:27:39.350] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 23:28:01.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/782, l='ServerLevel[world]', x=19.70, y=66.00, z=-159.31] died, message: 'Fletcher was killed'
+[17Apr2025 23:28:01.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/797, l='ServerLevel[world]', x=19.42, y=66.00, z=-161.42] died, message: 'Fletcher was killed'
+[17Apr2025 23:28:01.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/798, l='ServerLevel[world]', x=19.56, y=66.00, z=-163.44] died, message: 'Armorer was killed'
+[17Apr2025 23:28:01.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/799, l='ServerLevel[world]', x=19.50, y=66.00, z=-165.30] died, message: 'Weaponsmith was killed'
+[17Apr2025 23:28:01.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/803, l='ServerLevel[world]', x=19.58, y=66.00, z=-167.42] died, message: 'Villager was killed'
+[17Apr2025 23:28:01.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/837, l='ServerLevel[world]', x=6.66, y=65.00, z=138.46] died, message: 'Cleric was killed'
+[17Apr2025 23:28:01.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/838, l='ServerLevel[world]', x=2.88, y=64.00, z=130.60] died, message: 'Leatherworker was killed'
+[17Apr2025 23:28:01.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/839, l='ServerLevel[world]', x=6.49, y=64.00, z=137.36] died, message: 'Villager was killed'
+[17Apr2025 23:28:01.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/840, l='ServerLevel[world]', x=8.07, y=64.50, z=137.75] died, message: 'Villager was killed'
+[17Apr2025 23:28:01.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/841, l='ServerLevel[world]', x=7.46, y=65.17, z=138.47] died, message: 'Nitwit was killed'
+[17Apr2025 23:28:01.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/843, l='ServerLevel[world]', x=9.70, y=64.00, z=136.70] died, message: 'Nitwit was killed'
+[17Apr2025 23:28:01.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/845, l='ServerLevel[world]', x=-6.59, y=64.00, z=131.57] died, message: 'Mason was killed'
+[17Apr2025 23:28:01.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/846, l='ServerLevel[world]', x=-13.09, y=68.56, z=136.30] died, message: 'Villager was killed'
+[17Apr2025 23:28:01.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/847, l='ServerLevel[world]', x=-11.59, y=68.56, z=138.45] died, message: 'Villager was killed'
+[17Apr2025 23:28:01.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/848, l='ServerLevel[world]', x=-13.69, y=68.00, z=136.30] died, message: 'Weaponsmith was killed'
+[17Apr2025 23:28:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was killed
+[17Apr2025 23:28:01.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was killed
+[17Apr2025 23:28:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 355 entities
+[17Apr2025 23:28:01.656] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 23:28:01.656] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 23:28:39.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Diamonds!]
+[17Apr2025 23:29:48.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 23:31:23.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 23:31:23.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
