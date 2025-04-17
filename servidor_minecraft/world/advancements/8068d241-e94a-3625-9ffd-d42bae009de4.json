@@ -3390,6 +3390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-17 22:42:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-17 22:18:10 +0000"
@@ -3435,6 +3441,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-17 22:14:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:45:31 +0000"
     },
     "done": true
   },
