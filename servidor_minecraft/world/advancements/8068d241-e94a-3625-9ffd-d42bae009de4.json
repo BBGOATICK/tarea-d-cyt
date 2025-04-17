@@ -1892,6 +1892,7 @@
       "minecraft:skeleton": "2025-04-17 03:24:19 +0000",
       "minecraft:ravager": "2025-04-17 22:20:56 +0000",
       "minecraft:vindicator": "2025-04-17 22:18:09 +0000",
+      "minecraft:spider": "2025-04-17 23:17:38 +0000",
       "minecraft:creeper": "2025-04-17 03:04:26 +0000",
       "minecraft:evoker": "2025-04-17 22:32:15 +0000",
       "minecraft:witch": "2025-04-17 22:33:31 +0000",
@@ -3397,6 +3398,12 @@
       "illageandspillage:crocofang": "2025-04-17 22:30:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-17 23:07:13 +0000"
+    },
+    "done": true
   },
   "adorn:recipes/trading_station": {
     "criteria": {
