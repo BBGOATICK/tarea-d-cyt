@@ -4365,10 +4365,17 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:spiritcaller": "2025-04-17 22:29:52 +0000",
       "illageandspillage:igniter": "2025-04-17 22:18:39 +0000",
       "illageandspillage:crocofang": "2025-04-17 22:19:09 +0000"
     },
     "done": false
+  },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-04-17 22:29:52 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/chain_death": {
     "criteria": {
