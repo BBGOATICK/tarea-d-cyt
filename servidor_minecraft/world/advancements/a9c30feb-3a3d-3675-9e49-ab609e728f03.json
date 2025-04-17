@@ -1453,7 +1453,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-17 03:28:31 +0000",
+      "minecraft:skeleton": "2025-04-17 22:22:29 +0000",
+      "minecraft:vindicator": "2025-04-17 22:19:01 +0000",
       "minecraft:spider": "2025-04-17 21:57:30 +0000",
+      "minecraft:creeper": "2025-04-17 22:18:47 +0000",
       "minecraft:witch": "2025-04-17 03:25:02 +0000",
       "minecraft:zombie": "2025-04-17 02:23:31 +0000"
     },
@@ -3347,9 +3350,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 22:20:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 22:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 22:19:01 +0000"
     },
     "done": true
   },
@@ -3371,9 +3386,35 @@
     },
     "done": true
   },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-04-17 22:21:06 +0000",
+      "illageandspillage:absorber": "2025-04-17 22:24:27 +0000",
+      "illageandspillage:igniter": "2025-04-17 22:20:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-17 22:24:59 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/trading_station": {
+    "criteria": {
+      "has_emerald": "2025-04-17 22:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-17 22:04:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:19:07 +0000"
     },
     "done": true
   },
@@ -3407,9 +3448,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-17 22:20:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-17 22:12:50 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-04-17 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:20:38 +0000"
     },
     "done": true
   },
@@ -3422,6 +3481,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:04:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-17 22:19:03 +0000"
     },
     "done": true
   },
