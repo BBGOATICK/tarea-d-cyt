@@ -1648,6 +1648,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:24:54 +0000",
+      "cooked_beef": "2025-04-17 22:13:21 +0000",
       "bread": "2025-04-17 03:47:30 +0000",
       "rotten_flesh": "2025-04-17 02:32:20 +0000",
       "cooked_chicken": "2025-04-17 03:08:06 +0000"
@@ -3352,9 +3353,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-17 22:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-17 22:04:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:14:22 +0000"
     },
     "done": true
   },
@@ -3391,6 +3404,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 22:04:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 22:12:50 +0000"
     },
     "done": true
   },

@@ -757,3 +757,54 @@ ModdedBiomeSource (574fd239)
 [17Apr2025 22:08:25.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Dragon Growth Hormone]
 [17Apr2025 22:08:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Bison
 [17Apr2025 22:08:44.313] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 22:11:04.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 22:11:13.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 22:11:28.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:11:32.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 22:11:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Ambush]
+[17Apr2025 22:11:45.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 22:12:08.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was shot by Pillager
+[17Apr2025 22:12:08.554] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 22:12:38.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported bruss23 to elbbtick2142
+[17Apr2025 22:12:50.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 22:12:53.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:12:57.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:13:07.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:13:13.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Voluntary Exile]
+[17Apr2025 22:13:15.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:13:51.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 22:13:55.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 22:14:01.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:14:22.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [Fortuitous Militia]
+[17Apr2025 22:14:24.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 22:14:38.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 22:16:13.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 22:17:01.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 22:17:04.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 22:19:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Voluntary Exile]
+[17Apr2025 22:19:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Vindicator
+[17Apr2025 22:19:02.165] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[17Apr2025 22:19:03.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [The Most Useful Key]
+[17Apr2025 22:19:07.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [A Fast Comeback]
+[17Apr2025 22:19:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Vindicator
+[17Apr2025 22:19:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [Fortuitous Militia]
+[17Apr2025 22:19:27.556] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 22:19:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Vindicator
+[17Apr2025 22:19:30.005] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 22:20:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ravager
+[17Apr2025 22:20:18.458] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[17Apr2025 22:20:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has reached the goal [Chain Death]
+[17Apr2025 22:20:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Vindicator
+[17Apr2025 22:20:21.257] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 22:20:21.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [Chain Death]
+[17Apr2025 22:20:21.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ravager
+[17Apr2025 22:20:21.957] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 22:20:35.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Not Today, Thank You]
+[17Apr2025 22:20:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [Chain Death]
+[17Apr2025 22:20:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was shot by Pillager
+[17Apr2025 22:20:38.560] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[17Apr2025 22:20:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ravager
+[17Apr2025 22:20:47.104] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 22:20:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Take Aim]
+[17Apr2025 22:20:55.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Ravager
+[17Apr2025 22:20:55.317] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
