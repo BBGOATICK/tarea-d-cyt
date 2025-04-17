@@ -1895,6 +1895,7 @@
       "minecraft:creeper": "2025-04-17 03:04:26 +0000",
       "minecraft:evoker": "2025-04-17 22:32:15 +0000",
       "minecraft:witch": "2025-04-17 22:33:31 +0000",
+      "minecraft:vex": "2025-04-17 23:02:10 +0000",
       "minecraft:zombie": "2025-04-17 03:04:30 +0000"
     },
     "done": false
@@ -3339,6 +3340,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_diorite_slab": "2025-04-17 22:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-17 22:23:05 +0000"
@@ -3375,9 +3382,16 @@
     },
     "done": true
   },
+  "adorn:recipes/diorite_step": {
+    "criteria": {
+      "has_slab": "2025-04-17 22:57:42 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-04-17 22:23:00 +0000",
+      "illageandspillage:absorber": "2025-04-17 22:49:02 +0000",
       "illageandspillage:engineer": "2025-04-17 22:20:45 +0000",
       "illageandspillage:igniter": "2025-04-17 22:18:43 +0000",
       "illageandspillage:crocofang": "2025-04-17 22:30:28 +0000"
@@ -3393,6 +3407,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-04-17 22:42:15 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/diorite_platform": {
+    "criteria": {
+      "has_slab": "2025-04-17 22:57:42 +0000"
     },
     "done": true
   },
@@ -3420,6 +3440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-17 23:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-17 22:26:38 +0000"
@@ -3429,6 +3455,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:11:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/mug": {
+    "criteria": {
+      "has_glass_bottle": "2025-04-17 22:49:49 +0000"
     },
     "done": true
   },

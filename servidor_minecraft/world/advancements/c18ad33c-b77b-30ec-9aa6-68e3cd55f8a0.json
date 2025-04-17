@@ -2076,6 +2076,7 @@
       "minecraft:vindicator": "2025-04-17 22:18:08 +0000",
       "minecraft:spider": "2025-04-15 20:54:47 +0000",
       "minecraft:creeper": "2025-04-15 21:45:01 +0000",
+      "minecraft:evoker": "2025-04-17 23:06:09 +0000",
       "minecraft:witch": "2025-04-17 22:21:19 +0000",
       "minecraft:endermite": "2025-04-16 19:06:07 +0000",
       "minecraft:vex": "2025-04-17 22:45:26 +0000",
@@ -4352,9 +4353,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_diorite_slab": "2025-04-17 22:53:23 +0000"
     },
     "done": true
   },
@@ -4364,9 +4383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-17 22:13:13 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/diorite_step": {
+    "criteria": {
+      "has_slab": "2025-04-17 22:53:23 +0000"
     },
     "done": true
   },
@@ -4381,9 +4412,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:39:17 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/brick_post": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
     },
     "done": true
   },
@@ -4399,9 +4442,21 @@
     },
     "done": true
   },
+  "adorn:recipes/diorite_platform": {
+    "criteria": {
+      "has_slab": "2025-04-17 22:53:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
     },
     "done": true
   },
@@ -4435,6 +4490,12 @@
     },
     "done": true
   },
+  "adorn:recipes/brick_chimney_from_block": {
+    "criteria": {
+      "has_key_item_0": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
@@ -4447,9 +4508,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:55:07 +0000"
     },
     "done": true
   },
