@@ -1603,6 +1603,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:37:13 +0000",
+      "baked_potato": "2025-04-17 23:39:32 +0000",
       "apple": "2025-04-17 03:26:53 +0000",
       "potato": "2025-04-17 03:21:51 +0000",
       "mutton": "2025-04-17 22:26:40 +0000",
@@ -3372,9 +3373,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-17 23:34:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/diorite_lantern": {
     "criteria": {
       "has_diorite_slab": "2025-04-17 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 23:34:19 +0000"
     },
     "done": true
   },
@@ -3448,6 +3461,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 23:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-04-17 23:07:13 +0000"
@@ -3460,9 +3479,21 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-17 23:38:54 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/trading_station": {
     "criteria": {
       "has_emerald": "2025-04-17 22:18:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-04-17 23:34:19 +0000"
     },
     "done": true
   },
@@ -3520,9 +3551,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-17 23:34:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-17 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-17 23:34:19 +0000"
     },
     "done": true
   },
@@ -3585,6 +3628,12 @@
       "has_mutton": "2025-04-17 22:26:38 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-17 23:38:54 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
