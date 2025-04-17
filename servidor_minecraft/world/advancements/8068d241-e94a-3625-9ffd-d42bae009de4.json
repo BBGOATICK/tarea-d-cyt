@@ -2589,19 +2589,73 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/luck_of_sea_book": {
-    "criteria": {
-      "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/quick_charge_book": {
-    "criteria": {
-      "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/diorite_post": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-17 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-17 03:37:56 +0000"
     },
@@ -2613,9 +2667,117 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:38:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:38:40 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/oak_bench": {
     "criteria": {
       "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_chair": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_platform": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_table": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_step": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-04-17 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/candlelit_lantern": {
+    "criteria": {
+      "has_candle": "2025-04-17 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-04-17 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
     },
     "done": true
   },
@@ -2649,27 +2811,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-04-17 03:39:01 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-17 03:39:04 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_drawer": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
     },
     "done": true
   },
@@ -2703,18 +2847,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 03:38:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/traders_manual": {
     "criteria": {
       "has_key_item_0": "2025-04-17 03:39:05 +0000"
@@ -2739,18 +2871,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_chair": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
@@ -2766,18 +2886,6 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 03:38:40 +0000"
     },
     "done": true
   },
@@ -2823,27 +2931,9 @@
     },
     "done": true
   },
-  "adorn:recipes/oak_shelf": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-17 03:39:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
     },
     "done": true
   },
@@ -2859,18 +2949,6 @@
     },
     "done": true
   },
-  "adorn:recipes/candlelit_lantern": {
-    "criteria": {
-      "has_candle": "2025-04-17 03:39:03 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_platform": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
@@ -2880,18 +2958,6 @@
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_table": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_step": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
     },
     "done": true
   },
@@ -2919,12 +2985,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
@@ -2946,12 +3006,6 @@
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-17 03:39:01 +0000"
     },
     "done": true
   },
@@ -2991,21 +3045,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/diorite_post": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
     },
     "done": true
   },
@@ -3093,27 +3135,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-04-17 03:39:03 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "adorn:recipes/oak_coffee_table": {
-    "criteria": {
-      "has_slab": "2025-04-17 03:39:01 +0000"
     },
     "done": true
   },
@@ -3141,12 +3165,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
@@ -3159,27 +3177,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-04-17 03:39:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-17 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-04-17 03:37:56 +0000"
     },
     "done": true
   },
@@ -3192,6 +3192,138 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-17 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-17 03:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-17 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 03:45:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:45:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:45:25 +0000"
     },
     "done": true
   },
