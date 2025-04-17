@@ -61,6 +61,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-17 02:45:48 +0000",
       "minecraft:beach": "2025-04-15 21:22:15 +0000",
       "minecraft:river": "2025-04-15 20:57:36 +0000",
       "minecraft:stony_shore": "2025-04-15 21:48:31 +0000",
@@ -2138,8 +2139,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-15 20:57:09 +0000",
+      "cooked_beef": "2025-04-17 02:50:19 +0000",
       "bread": "2025-04-15 21:00:52 +0000",
-      "rotten_flesh": "2025-04-15 20:55:11 +0000"
+      "rotten_flesh": "2025-04-15 20:55:11 +0000",
+      "glow_berries": "2025-04-17 02:49:47 +0000"
     },
     "done": false
   },
@@ -3691,6 +3694,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-17 02:35:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 02:25:56 +0000"
@@ -3712,6 +3727,12 @@
   "adorn:recipes/guide_book": {
     "criteria": {
       "has_key_item_0": "2025-04-17 02:25:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-04-17 02:38:38 +0000"
     },
     "done": true
   },
@@ -3775,6 +3796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 02:25:56 +0000"
@@ -3787,9 +3814,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-17 02:35:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-17 02:35:47 +0000"
     },
     "done": true
   },
@@ -3826,6 +3865,12 @@
   "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 02:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
     },
     "done": true
   },
@@ -3895,6 +3940,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-17 02:43:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 02:25:56 +0000"
@@ -3949,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 02:25:56 +0000"
@@ -4000,6 +4057,12 @@
   "adorn:recipes/diorite_post": {
     "criteria": {
       "has_diorite": "2025-04-17 02:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
     },
     "done": true
   },
@@ -4075,6 +4138,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 02:25:56 +0000"
@@ -4102,6 +4171,12 @@
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 02:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
     },
     "done": true
   },
@@ -4162,6 +4237,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 02:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-17 02:33:34 +0000"
     },
     "done": true
   },
