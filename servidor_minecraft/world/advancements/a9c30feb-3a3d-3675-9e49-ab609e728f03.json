@@ -1450,6 +1450,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 03:28:31 +0000",
+      "minecraft:witch": "2025-04-17 03:25:02 +0000",
       "minecraft:zombie": "2025-04-17 02:23:31 +0000"
     },
     "done": false
@@ -1642,6 +1644,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-17 03:24:54 +0000",
       "rotten_flesh": "2025-04-17 02:32:20 +0000",
       "cooked_chicken": "2025-04-17 03:08:06 +0000"
     },
@@ -1767,9 +1770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-17 03:28:38 +0000"
     },
     "done": true
   },
@@ -1782,6 +1797,12 @@
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
     },
     "done": true
   },
@@ -1809,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 03:23:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
@@ -1821,6 +1848,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:30:00 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
@@ -1830,6 +1863,18 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:25:02 +0000"
     },
     "done": true
   },
@@ -1857,6 +1902,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-17 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 03:23:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
@@ -1866,6 +1929,18 @@
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
     },
     "done": true
   },
@@ -1923,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
@@ -1941,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-17 03:26:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
@@ -1950,6 +2037,12 @@
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
     },
     "done": true
   },
@@ -1983,6 +2076,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
@@ -2007,9 +2106,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:25:19 +0000"
     },
     "done": true
   },
@@ -2121,6 +2232,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 03:25:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
@@ -2142,6 +2259,12 @@
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
     },
     "done": true
   },
@@ -2175,6 +2298,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-04-17 03:26:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
@@ -2184,6 +2313,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-17 03:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-17 03:26:37 +0000"
     },
     "done": true
   },
