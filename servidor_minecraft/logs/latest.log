@@ -990,3 +990,42 @@ ModdedBiomeSource (772ca63e)
 [17Apr2025 02:51:28.756] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
 [17Apr2025 02:52:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Gravedigger]
 [17Apr2025 02:53:35.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Suit Up]
+[17Apr2025 02:55:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Tasmanian Devil
+[17Apr2025 02:55:50.966] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 02:57:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 was blown up by Skeleton Creeper
+[17Apr2025 02:57:16.265] [Server thread/INFO] [tombstone/]: The player ADRIANYT31212 has successfully been saved
+[17Apr2025 02:57:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to ADRIANYT31212
+[17Apr2025 02:57:57.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Stone Age]
+[17Apr2025 02:58:20.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Getting an Upgrade]
+[17Apr2025 02:59:10.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by bruss23
+[17Apr2025 02:59:10.039] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[17Apr2025 02:59:14.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by elbbtick2142
+[17Apr2025 02:59:14.893] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 02:59:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 was slain by Zombie
+[17Apr2025 02:59:16.895] [Server thread/INFO] [tombstone/]: The player ADRIANYT31212 has successfully been saved
+[17Apr2025 02:59:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to ADRIANYT31212
+[17Apr2025 03:00:04.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Source of Evil]
+[17Apr2025 03:00:13.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:63072] logged in with entity id 17085 at (29.673020951255204, 68.0, -154.85684394220382)
+[17Apr2025 03:00:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[17Apr2025 03:00:13.739] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17Apr2025 03:00:13.739] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17Apr2025 03:00:13.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17Apr2025 03:00:13.741] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[17Apr2025 03:00:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Getting an Upgrade]
+[17Apr2025 03:01:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Suit Up]
+[17Apr2025 03:01:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Gravedigger]
+[17Apr2025 03:04:26.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Monster Hunter]

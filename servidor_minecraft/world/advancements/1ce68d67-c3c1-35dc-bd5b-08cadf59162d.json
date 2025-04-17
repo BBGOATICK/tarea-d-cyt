@@ -2116,7 +2116,9 @@
     "criteria": {
       "beef": "2025-04-17 02:48:10 +0000",
       "porkchop": "2025-04-17 02:15:52 +0000",
+      "mutton": "2025-04-17 02:50:54 +0000",
       "bread": "2025-04-16 15:11:42 +0000",
+      "glow_berries": "2025-04-17 02:52:59 +0000",
       "salmon": "2025-04-17 02:15:50 +0000"
     },
     "done": false
@@ -2963,6 +2965,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 02:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-04-17 02:50:16 +0000"
@@ -2984,6 +2992,24 @@
   "adorn:recipes/candlelit_lantern": {
     "criteria": {
       "has_candle": "2025-04-17 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-17 02:50:59 +0000"
     },
     "done": true
   },
