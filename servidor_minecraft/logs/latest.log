@@ -1065,3 +1065,57 @@ ModdedBiomeSource (772ca63e)
 [17Apr2025 03:14:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> xD
 [17Apr2025 03:14:49.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> que?
 [17Apr2025 03:14:55.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> ok
+[17Apr2025 03:15:36.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Isn't It Iron Pick]
+[17Apr2025 03:16:48.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 03:16:55.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[17Apr2025 03:17:52.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Stay dead]
+[17Apr2025 03:18:04.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 has made the advancement [Ashes 'n Bones]
+[17Apr2025 03:18:08.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 was slain by Zombie
+[17Apr2025 03:18:08.447] [Server thread/INFO] [tombstone/]: The player ADRIANYT31212 has successfully been saved
+[17Apr2025 03:18:08.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADRIANYT31212 moved wrongly!
+[17Apr2025 03:18:46.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to ADRIANYT31212
+[17Apr2025 03:19:23.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 03:19:49.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.32406393284662016
+[17Apr2025 03:19:49.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.8461158695169146
+[17Apr2025 03:19:49.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 1.0109074151702089
+[17Apr2025 03:19:49.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 1.241658497791441
+[17Apr2025 03:19:49.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.2752677254994538
+[17Apr2025 03:19:49.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.3065039833428287
+[17Apr2025 03:19:50.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.2720395534093427
+[17Apr2025 03:19:55.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 03:20:19.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by ADRIANYT31212
+[17Apr2025 03:20:19.210] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 03:20:23.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/16674, l='ServerLevel[world]', x=81.93, y=64.00, z=179.91] died, message: 'Nitwit was slain by Zombie'
+[17Apr2025 03:21:26.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> DIME ?
+[17Apr2025 03:21:43.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADRIANYT31212 moved too quickly! 6.80959343341064,0.0,-7.445060228721758
+[17Apr2025 03:22:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> 3 stacks y 6
+[17Apr2025 03:23:28.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADRIANYT31212 lost connection: Timed out
+[17Apr2025 03:23:28.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 left the game
+[17Apr2025 03:23:43.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADRIANYT31212[/172.23.162.86:57439] logged in with entity id 28155 at (31.7178948134859, 67.0, -173.2698502304121)
+[17Apr2025 03:23:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADRIANYT31212 joined the game
+[17Apr2025 03:23:43.854] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17Apr2025 03:23:43.854] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17Apr2025 03:23:43.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17Apr2025 03:23:43.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17Apr2025 03:23:43.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17Apr2025 03:23:43.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17Apr2025 03:23:43.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17Apr2025 03:23:43.856] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17Apr2025 03:23:43.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17Apr2025 03:23:43.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17Apr2025 03:23:43.857] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[17Apr2025 03:23:44.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> que piola xd
+[17Apr2025 03:24:07.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 moved wrongly!
+[17Apr2025 03:24:08.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[17Apr2025 03:24:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> toma
+[17Apr2025 03:25:02.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was killed by Witch using magic
+[17Apr2025 03:25:02.026] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[17Apr2025 03:25:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Knowledge of Death]
+[17Apr2025 03:25:02.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Ambush]
