@@ -1362,3 +1362,572 @@ ModdedBiomeSource (4fb178e2)
 [18Apr2025 22:55:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Sweet Dreams]
 [18Apr2025 22:59:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Stone Age]
 [18Apr2025 22:59:48.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Getting an Upgrade]
+[18Apr2025 23:03:26.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [A Strange Grave Dust]
+[18Apr2025 23:03:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Knowledge of Death]
+[18Apr2025 23:03:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Easter Egg Searcher]
+[18Apr2025 23:04:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Ashes 'n Bones]
+[18Apr2025 23:04:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Monster Hunter]
+[18Apr2025 23:04:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Acquire Hardware]
+[18Apr2025 23:04:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Acquire Hardware]
+[18Apr2025 23:05:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Isn't It Iron Pick]
+[18Apr2025 23:05:13.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Isn't It Iron Pick]
+[18Apr2025 23:09:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 tried to swim in lava to escape Cave Centipede
+[18Apr2025 23:09:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Your First Grave]
+[18Apr2025 23:09:40.273] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 23:13:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Diamonds!]
+[18Apr2025 23:13:32.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Acquire Hardware]
+[18Apr2025 23:13:38.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Diamonds!]
+[18Apr2025 23:14:18.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [A Strange Grave Dust]
+[18Apr2025 23:14:21.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was blown up by Troll
+[18Apr2025 23:14:21.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Your First Grave]
+[18Apr2025 23:14:21.458] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:14:23.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Troll
+[18Apr2025 23:14:23.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Your First Grave]
+[18Apr2025 23:14:24.000] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:14:56.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:14:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:15:20.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@170404dc[id=<null>,name=Anghel956,properties={},legacy=false] (/172.23.219.77:63513) lost connection: Disconnected
+[18Apr2025 23:15:29.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:63531] logged in with entity id 20253 at (-26.5, 74.0, 66.5)
+[18Apr2025 23:15:29.740] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:15:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:15:29.939] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:15:29.940] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:15:29.941] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:15:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[18Apr2025 23:15:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [The Most Useful Key]
+[18Apr2025 23:15:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [The Most Useful Key]
+[18Apr2025 23:15:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Knowledge of Death]
+[18Apr2025 23:15:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [A Fast Comeback]
+[18Apr2025 23:15:49.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [Here They Come]
+[18Apr2025 23:15:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Knowledge of Death]
+[18Apr2025 23:15:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [A Fast Comeback]
+[18Apr2025 23:15:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [Here They Come]
+[18Apr2025 23:16:01.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:16:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:16:15.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:63575] logged in with entity id 20654 at (-352.36689460194646, 37.0, 88.69999998807907)
+[18Apr2025 23:16:15.622] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:16:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:16:15.806] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:16:15.807] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:16:15.807] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:16:15.807] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:16:15.807] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:16:15.807] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:16:15.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:16:15.809] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:16:15.809] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:16:23.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Easter Egg Searcher]
+[18Apr2025 23:16:27.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was blown up by Troll
+[18Apr2025 23:16:27.758] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:16:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [Chain Death]
+[18Apr2025 23:16:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Troll
+[18Apr2025 23:16:35.663] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:16:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Ice Bucket Challenge]
+[18Apr2025 23:16:47.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [They Have a Cave Troll!]
+[18Apr2025 23:17:33.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Anghel956
+[18Apr2025 23:17:33.015] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:17:41.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Isn't It Iron Pick]
+[18Apr2025 23:17:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Funeral Theft]
+[18Apr2025 23:17:41.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [Discreet Search]
+[18Apr2025 23:17:43.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[18Apr2025 23:18:02.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Easter Egg Searcher]
+[18Apr2025 23:20:06.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [A Strange Grave Dust]
+[18Apr2025 23:20:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:20:28.252] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:20:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:20:29.372] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:20:40.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:20:40.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:20:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:20:49.067] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:20:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has reached the goal [A Metropolis of Restless Souls]
+[18Apr2025 23:20:52.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:63814] logged in with entity id 22606 at (-22.5, 75.0, 73.5)
+[18Apr2025 23:20:52.767] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:20:52.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:20:52.944] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:20:52.944] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:20:52.945] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:20:52.946] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:21:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:21:07.963] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:21:10.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[18Apr2025 23:21:28.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:21:28.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:21:30.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:21:30.653] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:21:41.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:63892] logged in with entity id 23426 at (-358.5, 46.16154996173326, 66.5)
+[18Apr2025 23:21:41.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:21:41.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:21:41.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:21:41.619] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:21:41.620] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:21:41.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:21:41.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:21:41.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:21:41.621] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:21:42.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Sneak 100]
+[18Apr2025 23:21:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has reached the goal [Chain Death]
+[18Apr2025 23:21:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:21:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:21:47.370] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:21:47.371] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:22:05.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:22:05.859] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:22:10.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:22:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:22:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:22:25.652] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:22:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 2]
+[18Apr2025 23:23:00.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:23:00.452] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:23:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:23:21.252] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:23:26.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64034] logged in with entity id 24802 at (-33.5, 73.0, 66.5)
+[18Apr2025 23:23:26.955] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:23:26.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:23:28.301] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:23:28.302] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:23:28.303] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:23:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[18Apr2025 23:23:58.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:23:58.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:23:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:23:59.151] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:24:11.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64080] logged in with entity id 25256 at (-358.5, 46.16154996173326, 67.5)
+[18Apr2025 23:24:11.059] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:24:11.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:24:11.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:24:11.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:24:11.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:24:11.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:24:11.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:24:11.250] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:24:11.250] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:24:11.250] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:24:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:24:23.051] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:24:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:24:24.160] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:24:28.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-22, y=74, z=69}
+[18Apr2025 23:24:36.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:24:36.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:24:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Suit Up]
+[18Apr2025 23:24:50.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64121] logged in with entity id 25639 at (-21.5, 75.0, 69.5)
+[18Apr2025 23:24:50.157] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:24:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:24:50.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:24:50.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:24:50.408] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:24:50.409] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:24:52.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:24:52.058] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:25:19.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:25:19.355] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:25:47.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> una ender perl ?
+[18Apr2025 23:25:50.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[18Apr2025 23:25:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:26:00.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:26:00.545] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:26:13.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64773] logged in with entity id 26505 at (-64.8047633257107, 69.0, 84.70137878487112)
+[18Apr2025 23:26:13.663] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:26:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:26:13.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:26:13.870] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:26:13.871] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:26:13.872] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:26:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[18Apr2025 23:26:33.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:26:33.154] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:26:37.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:26:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:26:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:26:46.751] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:27:01.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64818] logged in with entity id 26982 at (-351.5, 46.16154996173326, 64.5)
+[18Apr2025 23:27:01.013] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:27:01.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:27:01.161] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:27:01.162] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:27:01.163] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:27:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Alex's Caves]
+[18Apr2025 23:27:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:27:32.655] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:27:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [It Belongs in a Museum]
+[18Apr2025 23:28:02.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:28:02.357] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:28:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:28:13.161] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:28:23.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:28:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:28:25.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:28:25.553] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:28:35.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64903] logged in with entity id 27849 at (-359.44597110865857, 46.0, 60.30000001192093)
+[18Apr2025 23:28:35.357] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:28:35.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:28:35.551] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:28:35.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:29:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:29:19.149] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:29:30.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:29:30.453] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:29:58.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:29:58.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:30:07.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:64988] logged in with entity id 28627 at (-346.1825304787359, 43.0, 65.69999998807907)
+[18Apr2025 23:30:07.258] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:30:07.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:30:07.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:30:07.420] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:30:07.421] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:30:07.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:30:07.422] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:30:07.423] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:30:46.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:30:46.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:30:47.012] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:30:47.012] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:31:34.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:31:34.247] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:31:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:31:37.656] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:31:49.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:31:49.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:32:03.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65086] logged in with entity id 29554 at (-358.79555265966866, 46.0, 61.96321583192374)
+[18Apr2025 23:32:03.256] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:32:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:32:03.570] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:32:03.570] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:32:03.570] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:32:03.570] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:32:03.571] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:32:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:32:04.653] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:32:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> no mueras
+[18Apr2025 23:32:54.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Cover Me with Diamonds]
+[18Apr2025 23:32:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:32:56.001] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:32:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:32:59.152] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:33:02.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:33:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:33:08.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:33:08.549] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:33:14.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65152] logged in with entity id 30201 at (-349.69999998807907, 45.0, 67.66207455079454)
+[18Apr2025 23:33:14.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:33:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:33:14.208] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:33:14.208] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:33:14.209] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:33:14.209] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:33:14.209] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:33:14.209] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:33:14.210] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:33:14.210] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:33:14.210] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:33:14.210] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:33:14.210] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:33:14.211] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:33:14.212] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:33:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:33:31.649] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:33:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:33:34.548] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:33:37.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:33:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:33:49.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65186] logged in with entity id 30396 at (-349.69999998807907, 45.0, 67.30000001192093)
+[18Apr2025 23:33:49.074] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:33:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:33:49.247] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:33:49.247] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:33:49.248] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:33:49.249] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:34:22.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:34:22.802] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:34:29.900] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:34:29.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:34:42.094] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27dbcddc[id=<null>,name=Anghel956,properties={},legacy=false] (/172.23.219.77:65232) lost connection: Disconnected
+[18Apr2025 23:34:51.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65241] logged in with entity id 30872 at (-350.4872929982253, 46.0, 66.76360199093865)
+[18Apr2025 23:34:51.613] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:34:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:34:51.797] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:34:51.797] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:34:51.798] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:34:51.799] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:36:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:36:06.600] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:36:28.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Ferrous Wroughtnaut
+[18Apr2025 23:36:28.646] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:36:37.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:36:37.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:36:50.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65342] logged in with entity id 31681 at (-354.05436815927357, 46.0, 72.94548263841706)
+[18Apr2025 23:36:50.654] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:36:50.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:36:50.811] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:36:50.812] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:37:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has completed the challenge [Just a Flesh Wound]
+[18Apr2025 23:37:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Anghel956
+[18Apr2025 23:37:58.222] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 23:38:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Diamonds!]
+[18Apr2025 23:38:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by bruss23
+[18Apr2025 23:38:09.117] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:38:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Funeral Theft]
+[18Apr2025 23:38:24.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:38:24.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:38:36.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:65441] logged in with entity id 32180 at (-351.7934101783799, 46.0625, 62.05971361191862)
+[18Apr2025 23:38:36.855] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:38:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:38:37.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:38:37.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:38:37.041] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:40:24.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by bruss23
+[18Apr2025 23:40:24.703] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 23:40:29.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 23:40:29.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 23:40:34.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by bruss23
+[18Apr2025 23:40:34.524] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 23:40:38.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 2]
+[18Apr2025 23:40:42.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:49164] logged in with entity id 32808 at (-349.93421921588964, 46.0, 67.45852506168778)
+[18Apr2025 23:40:42.306] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 23:40:42.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 23:40:42.460] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 23:40:42.461] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 23:40:42.462] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 23:40:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [The Most Useful Key]
+[18Apr2025 23:40:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has reached the goal [A Fast Comeback]
+[18Apr2025 23:41:19.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by elbbtick2142
+[18Apr2025 23:41:19.524] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
