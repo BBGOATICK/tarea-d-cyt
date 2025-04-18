@@ -68,6 +68,7 @@
       "minecraft:forest": "2025-04-15 20:40:30 +0000",
       "minecraft:ocean": "2025-04-17 23:37:27 +0000",
       "minecraft:deep_dark": "2025-04-15 21:15:46 +0000",
+      "minecraft:savanna": "2025-04-17 23:43:55 +0000",
       "minecraft:plains": "2025-04-15 20:57:53 +0000"
     },
     "done": false
@@ -4356,9 +4357,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-04-17 22:57:10 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_table": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
     },
     "done": true
   },
@@ -4377,6 +4390,24 @@
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-17 23:51:21 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_drawer": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
     },
     "done": true
   },
@@ -4404,6 +4435,42 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_step": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_chair": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_platform": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/diorite_step": {
     "criteria": {
       "has_slab": "2025-04-17 22:53:23 +0000"
@@ -4427,6 +4494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-04-17 22:57:10 +0000"
@@ -4445,6 +4518,18 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_post": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/brick_post": {
     "criteria": {
       "has_bricks": "2025-04-17 22:57:10 +0000"
@@ -4457,9 +4542,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 23:53:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_shelf": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
     },
     "done": true
   },
@@ -4475,15 +4572,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-04-17 23:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/smooth_stone_platform": {
     "criteria": {
       "has_slab": "2025-04-17 23:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
     },
     "done": true
   },
@@ -4499,6 +4620,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-17 23:55:33 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-17 23:56:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:20:21 +0000"
@@ -4511,9 +4650,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_bench": {
+    "criteria": {
+      "has_slab": "2025-04-17 23:53:50 +0000"
     },
     "done": true
   },
@@ -4547,6 +4698,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-04-17 22:57:10 +0000"
@@ -4559,9 +4716,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-17 23:59:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-17 23:53:37 +0000"
     },
     "done": true
   },

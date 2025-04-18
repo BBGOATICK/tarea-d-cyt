@@ -66,6 +66,7 @@
       "minecraft:river": "2025-04-17 03:02:16 +0000",
       "minecraft:stony_shore": "2025-04-17 21:59:04 +0000",
       "minecraft:forest": "2025-04-17 02:19:00 +0000",
+      "minecraft:savanna": "2025-04-17 23:44:38 +0000",
       "minecraft:plains": "2025-04-17 02:21:09 +0000"
     },
     "done": false
@@ -1653,6 +1654,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:24:54 +0000",
       "cooked_beef": "2025-04-17 22:13:21 +0000",
+      "porkchop": "2025-04-17 23:44:23 +0000",
       "bread": "2025-04-17 03:47:30 +0000",
       "rotten_flesh": "2025-04-17 02:32:20 +0000",
       "cooked_chicken": "2025-04-17 03:08:06 +0000"
@@ -3492,6 +3494,30 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:54:25 +0000"
@@ -3501,12 +3527,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:54:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_mushroom_brown": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
     },
     "done": true
   },
@@ -3678,12 +3698,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/tenanea_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-17 22:54:25 +0000"
@@ -3717,12 +3731,6 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-17 22:54:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
     },
     "done": true
   },
@@ -3768,12 +3776,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-17 22:54:18 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-17 22:54:25 +0000"
@@ -3795,6 +3797,90 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-17 22:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_post": {
+    "criteria": {
+      "has_acacia_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-04-17 23:58:08 +0000"
     },
     "done": true
   },
