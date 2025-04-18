@@ -62,9 +62,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-17 02:45:48 +0000",
+      "minecraft:savanna_plateau": "2025-04-18 00:15:25 +0000",
       "minecraft:beach": "2025-04-15 21:22:15 +0000",
       "minecraft:river": "2025-04-15 20:57:36 +0000",
       "minecraft:stony_shore": "2025-04-15 21:48:31 +0000",
+      "minecraft:dripstone_caves": "2025-04-18 00:24:28 +0000",
       "minecraft:forest": "2025-04-15 20:40:30 +0000",
       "minecraft:ocean": "2025-04-17 23:37:27 +0000",
       "minecraft:deep_dark": "2025-04-15 21:15:46 +0000",
@@ -2080,6 +2082,7 @@
       "minecraft:creeper": "2025-04-15 21:45:01 +0000",
       "minecraft:evoker": "2025-04-17 23:06:09 +0000",
       "minecraft:witch": "2025-04-17 22:21:19 +0000",
+      "minecraft:cave_spider": "2025-04-18 00:30:36 +0000",
       "minecraft:silverfish": "2025-04-17 23:33:01 +0000",
       "minecraft:endermite": "2025-04-16 19:06:07 +0000",
       "minecraft:vex": "2025-04-17 22:45:26 +0000",
@@ -2148,6 +2151,7 @@
       "cooked_porkchop": "2025-04-15 20:57:09 +0000",
       "cooked_mutton": "2025-04-17 02:53:56 +0000",
       "cooked_beef": "2025-04-17 02:50:19 +0000",
+      "porkchop": "2025-04-18 00:21:08 +0000",
       "apple": "2025-04-17 23:39:45 +0000",
       "bread": "2025-04-15 21:00:52 +0000",
       "rotten_flesh": "2025-04-15 20:55:11 +0000",
@@ -4548,6 +4552,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 00:19:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-04-17 22:40:14 +0000"
@@ -4725,6 +4735,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:55:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-18 00:18:57 +0000"
     },
     "done": true
   },

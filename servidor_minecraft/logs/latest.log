@@ -72,3 +72,302 @@
 [18Apr2025 00:01:43.859] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [18Apr2025 00:01:43.859] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
 [18Apr2025 00:02:06.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> ua ua ua
+[18Apr2025 00:05:05.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:05:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:05:19.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=898, y=80, z=-1038}
+[18Apr2025 00:05:21.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62530] logged in with entity id 65655 at (854.634460238993, 33.0, -1046.6462786302309)
+[18Apr2025 00:05:21.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:05:21.860] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:05:21.860] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:05:21.860] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:05:21.861] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:05:21.862] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:08:52.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[18Apr2025 00:08:52.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:09:04.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62539] logged in with entity id 66964 at (854.6999999880791, -15.0, -1050.300000011921)
+[18Apr2025 00:09:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:09:04.699] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:09:04.699] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:09:04.699] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:09:04.700] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:09:04.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:09:04.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:09:04.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:09:04.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:09:04.701] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:09:53.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Anghel956 to bruss23
+[18Apr2025 00:09:59.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> nooooooooooooooooooooooooooooooooooo
+[18Apr2025 00:10:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> buchi dijo
+[18Apr2025 00:10:15.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bruss23> mentirosa
+[18Apr2025 00:10:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Anghel956
+[18Apr2025 00:10:15.870] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:10:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> dijo q andabas perdido
+[18Apr2025 00:10:37.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 00:10:37.708] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 00:10:37.709] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 00:10:37.709] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 00:10:37.933] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 00:10:37.934] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 00:10:37.934] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 00:10:37.934] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 00:10:38.622] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 00:10:38.623] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 00:10:38.623] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 00:10:38.623] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 00:10:38.623] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 00:10:38.820] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 00:10:38.820] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 00:10:38.820] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 00:10:38.821] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 00:10:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [It's an Emu!!!]
+[18Apr2025 00:11:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[18Apr2025 00:11:10.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[18Apr2025 00:11:18.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:11:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:11:29.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62549] logged in with entity id 67631 at (945.1442415266755, 78.0, -994.4254064486249)
+[18Apr2025 00:11:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:11:30.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:11:30.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:11:30.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:11:30.106] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:11:30.107] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:11:30.108] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:11:30.108] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:11:50.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[18Apr2025 00:12:29.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[18Apr2025 00:13:39.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was shot by Skeleton
+[18Apr2025 00:13:39.150] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:13:52.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported bruss23 to elbbtick2142
+[18Apr2025 00:13:54.332] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 00:13:54.332] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 00:13:54.332] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 00:13:54.332] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 00:13:55.810] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 00:13:55.810] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 00:13:55.810] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 00:13:57.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [We do a little trolling...]
+[18Apr2025 00:14:26.053] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 00:14:26.053] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 00:14:26.054] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 00:14:26.060] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 00:14:26.060] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 00:14:26.060] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 00:14:26.060] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 00:14:26.145] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 00:14:26.146] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 00:14:26.146] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 00:14:26.146] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 00:14:26.152] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 00:14:30.838] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 00:14:30.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 00:14:30.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 00:14:30.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 00:14:37.864] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 00:14:37.865] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 00:14:37.865] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 00:14:37.865] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 00:14:38.979] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 00:14:38.980] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 00:14:38.980] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 00:14:38.980] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 00:14:55.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> siganme
+[18Apr2025 00:14:56.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> miren
+[18Apr2025 00:15:24.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 3 entities to Anghel956
+[18Apr2025 00:15:31.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> miren
+[18Apr2025 00:15:48.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was shot by Skeleton
+[18Apr2025 00:15:48.648] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 00:15:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> herobrine
+[18Apr2025 00:15:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Anghel956 to bruss23
+[18Apr2025 00:16:08.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.25670963574316374
+[18Apr2025 00:16:08.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of bruss23) moved wrongly! 0.42521824145114806
+[18Apr2025 00:16:19.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was shot by Skeleton
+[18Apr2025 00:16:19.352] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 00:16:44.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was shot by Skeleton
+[18Apr2025 00:16:44.049] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 00:17:03.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported elbbtick2142 to Anghel956
+[18Apr2025 00:17:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbbtick2142> up
+[18Apr2025 00:18:24.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was struck with lightning by Lightning Dragon
+[18Apr2025 00:18:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was struck with lightning by Lightning Dragon
+[18Apr2025 00:18:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was struck with lightning by Lightning Dragon
+[18Apr2025 00:18:24.868] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:18:24.868] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 00:18:24.868] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 00:18:47.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bruss23> DRAGON
+[18Apr2025 00:18:52.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:18:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [The Most Useful Key]
+[18Apr2025 00:19:01.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has reached the goal [A Fast Comeback]
+[18Apr2025 00:19:01.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [The Most Useful Key]
+[18Apr2025 00:19:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has reached the goal [A Fast Comeback]
+[18Apr2025 00:19:20.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was energized by Lightning Dragon
+[18Apr2025 00:19:20.201] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:19:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:19:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Zombie
+[18Apr2025 00:19:37.655] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 00:19:38.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:19:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:20:29.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62559] logged in with entity id 73806 at (1112.8935815318982, 116.0, -1127.6911388298447)
+[18Apr2025 00:20:29.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:20:29.932] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:20:29.933] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:20:47.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:20:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:21:00.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62563] logged in with entity id 74357 at (1117.5, 116.1, -1129.5)
+[18Apr2025 00:21:00.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:21:00.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:21:00.484] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:21:00.485] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:21:00.486] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:21:19.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> a la mrd
+[18Apr2025 00:21:28.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was energized by Lightning Dragon
+[18Apr2025 00:21:28.308] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 00:21:34.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:21:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was struck with lightning by Lightning Dragon
+[18Apr2025 00:21:40.657] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 00:21:42.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:21:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:21:56.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62568] logged in with entity id 74959 at (1094.9957417857652, 114.0, -1109.3121068034625)
+[18Apr2025 00:21:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:21:56.381] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:21:56.381] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:21:56.381] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:21:56.381] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:21:56.381] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:21:56.382] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:21:56.383] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:21:56.383] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:22:00.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:22:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> tp ?
+[18Apr2025 00:22:19.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:22:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:22:23.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 2
+[18Apr2025 00:22:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was blown up by Creeper
+[18Apr2025 00:22:31.403] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:22:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 2
+[18Apr2025 00:23:37.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:62592] logged in with entity id 76025 at (900.5, 80.0, -1031.5)
+[18Apr2025 00:23:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 00:23:38.819] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 00:23:38.820] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 00:23:38.821] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 00:24:12.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> una ender perl
+[18Apr2025 00:24:16.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:24:20.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[18Apr2025 00:24:44.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> mataron al los dragones
+[18Apr2025 00:24:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> por que vi uno cerca de la base
+[18Apr2025 00:25:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was struck with lightning by Lightning Dragon
+[18Apr2025 00:25:01.627] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:25:10.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:26:10.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Ender Distancing]
+[18Apr2025 00:26:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Race Against The Clock]
+[18Apr2025 00:26:22.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Capsid-19]
+[18Apr2025 00:27:30.508] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/79974, l='ServerLevel[world]', x=1236.50, y=9.00, z=-862.50]
+[18Apr2025 00:27:30.508] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/79975, l='ServerLevel[world]', x=1240.50, y=9.00, z=-862.50]
+[18Apr2025 00:27:30.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/79976, l='ServerLevel[world]', x=1239.50, y=9.00, z=-861.50]
+[18Apr2025 00:27:30.509] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/79977, l='ServerLevel[world]', x=1241.50, y=10.00, z=-861.50]
+[18Apr2025 00:27:47.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[18Apr2025 00:28:33.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Best Friends Forever]
+[18Apr2025 00:29:09.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported elbbtick2142 to bruss23
+[18Apr2025 00:29:18.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[18Apr2025 00:29:20.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 moved wrongly!
+[18Apr2025 00:29:21.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 moved wrongly!
+[18Apr2025 00:30:12.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Cave Spider
+[18Apr2025 00:30:12.117] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 00:30:18.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 3
+[18Apr2025 00:30:28.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has completed the challenge [The Power of the Sun]
+[18Apr2025 00:30:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Cave Spider
+[18Apr2025 00:30:29.214] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 00:30:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Cave Spider
+[18Apr2025 00:30:45.177] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 00:31:04.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Timed out
+[18Apr2025 00:31:04.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
+[18Apr2025 00:32:02.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 00:32:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 00:32:33.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 lost connection: Disconnected
+[18Apr2025 00:32:33.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 left the game
