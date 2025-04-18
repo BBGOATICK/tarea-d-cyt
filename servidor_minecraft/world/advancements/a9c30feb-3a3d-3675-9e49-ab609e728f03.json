@@ -1656,6 +1656,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 03:24:54 +0000",
       "cooked_beef": "2025-04-17 22:13:21 +0000",
+      "beef": "2025-04-18 22:19:51 +0000",
       "porkchop": "2025-04-17 23:44:23 +0000",
       "bread": "2025-04-17 03:47:30 +0000",
       "rotten_flesh": "2025-04-17 02:32:20 +0000",
@@ -3934,24 +3935,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-04-18 00:30:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_axe": "2025-04-18 00:29:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-18 00:28:33 +0000"
-    },
-    "done": true
-  },
   "adorn:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-04-18 00:27:12 +0000"
@@ -3961,18 +3944,6 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-18 00:27:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-04-18 00:29:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_axe": "2025-04-18 00:29:48 +0000"
     },
     "done": true
   },
@@ -4009,6 +3980,87 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-18 00:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-18 00:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-18 00:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-18 00:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-18 00:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-18 00:30:06 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-04-18 22:18:23 +0000",
+      "has_black_balloon": "2025-04-18 22:18:23 +0000",
+      "has_lime_balloon": "2025-04-18 22:18:23 +0000",
+      "has_cyan_balloon": "2025-04-18 22:18:23 +0000",
+      "has_light_blue_balloon": "2025-04-18 22:18:23 +0000",
+      "has_gray_balloon": "2025-04-18 22:18:23 +0000",
+      "has_pink_balloon": "2025-04-18 22:18:23 +0000",
+      "has_light_gray_balloon": "2025-04-18 22:18:23 +0000",
+      "has_white_balloon": "2025-04-18 22:18:23 +0000",
+      "has_blue_balloon": "2025-04-18 22:18:23 +0000",
+      "has_yellow_balloon": "2025-04-18 22:18:23 +0000",
+      "has_purple_balloon": "2025-04-18 22:18:23 +0000",
+      "has_orange_balloon": "2025-04-18 22:18:23 +0000",
+      "has_brown_balloon": "2025-04-18 22:18:23 +0000",
+      "has_green_balloon": "2025-04-18 22:18:23 +0000",
+      "has_magenta_balloon": "2025-04-18 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-04-18 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-04-18 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-04-18 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-04-18 22:18:23 +0000"
     },
     "done": true
   },
