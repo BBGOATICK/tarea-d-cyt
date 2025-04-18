@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-18 22:51:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/easter": {
     "criteria": {
       "coded_trigger": "2025-04-18 22:44:49 +0000"
@@ -32,6 +38,18 @@
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-04-18 22:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-18 22:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-18 22:50:38 +0000"
     },
     "done": true
   },
@@ -122,6 +140,12 @@
   "betternether:recipes/decorations/wart_fence": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 22:57:38 +0000"
     },
     "done": true
   },
@@ -239,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-18 22:47:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -254,6 +284,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 22:55:33 +0000"
     },
     "done": true
   },
@@ -274,6 +310,12 @@
       "in_water": "2025-04-18 22:46:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-18 22:49:29 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
@@ -296,6 +338,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-18 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-18 22:50:38 +0000"
     },
     "done": true
   },
@@ -344,6 +392,12 @@
   "vc_gliders:recipes/misc/reinforced_paper": {
     "criteria": {
       "has_crafting_table": "2025-04-18 22:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-18 22:47:51 +0000"
     },
     "done": true
   },
@@ -443,6 +497,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_gold": {
     "criteria": {
       "has_crafting_table": "2025-04-18 22:46:38 +0000"
@@ -455,9 +521,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-04-18 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 22:49:22 +0000"
     },
     "done": true
   },
@@ -638,6 +716,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-18 22:50:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -722,9 +806,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 22:49:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 22:57:38 +0000"
     },
     "done": true
   },
@@ -746,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-18 22:45:12 +0000"
@@ -758,9 +860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:56:52 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-04-18 22:44:49 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:51:03 +0000"
     },
     "done": true
   },
@@ -803,6 +917,12 @@
   "betterend:recipes/decorations/helix_tree_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 22:51:03 +0000"
     },
     "done": true
   },
@@ -920,6 +1040,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -980,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-18 22:51:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1010,6 +1154,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-18 22:49:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1034,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-18 22:45:32 +0000"
@@ -1049,6 +1205,12 @@
   "adorn:recipes/cobblestone_post": {
     "criteria": {
       "has_cobblestone": "2025-04-18 22:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-18 22:50:56 +0000"
     },
     "done": true
   },
@@ -1094,6 +1256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-18 22:56:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1109,6 +1277,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-18 22:49:30 +0000"
     },
     "done": true
   },
@@ -1178,6 +1352,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-18 22:49:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1202,6 +1382,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 22:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-18 22:46:59 +0000"
@@ -1211,6 +1397,12 @@
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 22:51:03 +0000"
     },
     "done": true
   },
@@ -1253,6 +1445,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-04-18 22:45:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-18 22:49:07 +0000"
     },
     "done": true
   },
@@ -1352,6 +1550,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-18 22:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 22:57:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1361,6 +1571,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-18 22:50:38 +0000"
     },
     "done": true
   },
@@ -1376,9 +1592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-18 22:51:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/jellyshroom_gate": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:root": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:50:38 +0000"
     },
     "done": true
   },
@@ -1391,6 +1619,12 @@
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-18 22:51:07 +0000"
     },
     "done": true
   },
@@ -1478,6 +1712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-18 22:50:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_ladder": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1532,8 +1772,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-18 22:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-18 22:54:22 +0000",
+      "minecraft:river": "2025-04-18 22:51:26 +0000",
+      "minecraft:stony_shore": "2025-04-18 22:48:51 +0000",
       "minecraft:plains": "2025-04-18 22:44:50 +0000"
     },
     "done": false
@@ -1555,6 +1804,12 @@
       "has_cobblestone": "2025-04-18 22:47:00 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-04-18 22:51:17 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/transportation/activator_rail": {
     "criteria": {
@@ -1625,6 +1880,12 @@
   "betternether:recipes/decorations/willow_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 22:49:22 +0000"
     },
     "done": true
   },

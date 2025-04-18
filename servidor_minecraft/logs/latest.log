@@ -1355,3 +1355,10 @@ ModdedBiomeSource (4fb178e2)
 [18Apr2025 22:49:57.779] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-487.0909895544611, 43.87294246330469, -619.207877542516] -> [538.2890104407705, 50.71294249668329, 406.1721224527156] returning empty list! this might break things
 [18Apr2025 22:50:02.827] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-487.0909895544611, 43.87294246330469, -619.207877542516] -> [538.2890104407705, 50.71294249668329, 406.1721224527156] returning empty list! this might break things
 [18Apr2025 22:50:07.888] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-487.0909895544611, 43.87294246330469, -619.207877542516] -> [538.2890104407705, 50.71294249668329, 406.1721224527156] returning empty list! this might break things
+[18Apr2025 22:54:17.783] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[18Apr2025 22:55:16.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Monster Hunter]
+[18Apr2025 22:55:33.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Sweet Dreams]
+[18Apr2025 22:55:36.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Sweet Dreams]
+[18Apr2025 22:55:38.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Sweet Dreams]
+[18Apr2025 22:59:39.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Stone Age]
+[18Apr2025 22:59:48.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Getting an Upgrade]
