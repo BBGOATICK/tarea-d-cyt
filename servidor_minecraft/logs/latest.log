@@ -1635,3 +1635,177 @@ ModdedBiomeSource (5842a932)
 [18Apr2025 22:23:01.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [18Apr2025 22:23:04.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [18Apr2025 22:25:21.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[18Apr2025 22:25:44.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7526ms or 150 ticks behind
+[18Apr2025 22:26:04.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18Apr2025 22:26:43.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Ice Bucket Challenge]
+[18Apr2025 22:26:54.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Sea Serpent
+[18Apr2025 22:26:54.774] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 22:27:34.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Timed out
+[18Apr2025 22:27:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
+[18Apr2025 22:27:34.541] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Apr2025 22:28:11.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbbtick2142[/172.23.121.118:62974] logged in with entity id 8233 at (37.50916100279517, 64.0, -261.02079800452304)
+[18Apr2025 22:28:11.350] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 22:28:11.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 joined the game
+[18Apr2025 22:28:11.656] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 22:28:11.656] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 22:28:11.657] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 22:28:11.658] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 22:28:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[18Apr2025 22:28:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a  minecraft:ender_pearl 1<--[HERE]
+[18Apr2025 22:28:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Ender Pearl] to 2
+[18Apr2025 22:29:05.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bruss23[/172.23.172.157:53026] logged in with entity id 9229 at (1205.8461816149454, 95.0, -1034.4510913538893)
+[18Apr2025 22:29:05.240] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 22:29:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 joined the game
+[18Apr2025 22:29:05.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [bruss23] Tip: You can hit the "F3" and "D" keys at the same time to clear all prior chat messages
+[18Apr2025 22:29:08.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[18Apr2025 22:29:19.720] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 22:29:19.721] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 22:29:19.721] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 22:29:19.722] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 22:29:19.722] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 22:29:19.723] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 22:29:19.723] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 22:29:19.723] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 22:29:19.723] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 22:29:19.723] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 22:29:19.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 22:29:19.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 22:29:19.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 22:29:19.724] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 22:29:19.725] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 22:29:19.725] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 22:29:19.725] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 22:29:19.725] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 22:29:27.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
+[18Apr2025 22:29:29.549] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 22:29:41.135] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 22:29:41.136] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 22:29:41.136] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 22:29:41.136] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 22:29:43.957] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 22:29:43.958] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 22:29:43.958] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 22:29:43.958] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 22:29:47.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 22:29:47.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 22:29:47.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 22:29:51.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
+[18Apr2025 22:29:58.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[18Apr2025 22:29:58.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[18Apr2025 22:29:58.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[18Apr2025 22:29:58.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[18Apr2025 22:30:10.542] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 22:30:10.542] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[18Apr2025 22:30:10.543] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[18Apr2025 22:30:10.543] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[18Apr2025 22:30:13.852] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 22:30:13.852] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[18Apr2025 22:30:13.852] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 22:30:13.853] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 22:30:13.853] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 22:30:15.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8917ms or 178 ticks behind
+[18Apr2025 22:30:20.638] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[18Apr2025 22:30:20.639] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[18Apr2025 22:30:20.639] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[18Apr2025 22:30:20.639] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[18Apr2025 22:30:38.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8333ms or 166 ticks behind
+[18Apr2025 22:30:49.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Sea Serpent
+[18Apr2025 22:30:49.775] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 22:30:55.108] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-92.18999999761581, 51.929999977350235, -1075.1899999976158] -> [933.1899999976158, 58.770000010728836, -49.810000002384186] returning empty list! this might break things
+[18Apr2025 22:30:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Lightning Dragon
+[18Apr2025 22:30:57.261] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 22:31:00.121] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-90.9848907157172, 48.991275849052926, -1073.9984352439515] -> [934.3951092795144, 55.83127588243153, -48.61843524871972] returning empty list! this might break things
+[18Apr2025 22:31:01.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8145ms or 162 ticks behind
+[18Apr2025 22:31:05.135] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-87.22203748609928, 53.87202538497477, -1079.3735850961234] -> [938.1579625091324, 60.71202541835337, -53.993585100891664] returning empty list! this might break things
+[18Apr2025 22:31:07.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[18Apr2025 22:31:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 22:31:37.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Zombie
+[18Apr2025 22:31:38.353] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 22:31:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Spooky Scary Skeleton]
+[18Apr2025 22:32:00.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:53439] logged in with entity id 12240 at (417.9894048428293, 64.0, -633.5269305829389)
+[18Apr2025 22:32:00.534] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 22:32:00.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[18Apr2025 22:32:01.158] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[18Apr2025 22:32:01.159] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[18Apr2025 22:32:01.160] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[18Apr2025 22:32:27.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Sea Serpent
+[18Apr2025 22:32:27.148] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 22:32:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Sea Serpent
+[18Apr2025 22:32:47.024] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[18Apr2025 22:32:52.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 3 entities to bruss23
+[18Apr2025 22:33:15.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Timed out
+[18Apr2025 22:33:15.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[18Apr2025 22:34:36.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Nothing Built Can Last Forever]
+[18Apr2025 22:34:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Nothing Built Can Last Forever]
+[18Apr2025 22:34:47.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18Apr2025 22:35:04.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Apr2025 22:35:05.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made elbbtick2142 a server operator
+[18Apr2025 22:35:21.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[18Apr2025 22:35:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was blown up by Wither Storm
+[18Apr2025 22:35:34.454] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[18Apr2025 22:35:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was shot by a skull from Wither Storm
+[18Apr2025 22:35:36.110] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[18Apr2025 22:35:38.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-62, y=52, z=-43}
+[18Apr2025 22:35:38.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-62, y=51, z=-43}
+[18Apr2025 22:35:40.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3500ms or 70 ticks behind
+[18Apr2025 22:35:40.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=52, z=-43}
+[18Apr2025 22:35:43.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=52, z=-43}
+[18Apr2025 22:35:43.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=53, z=-43}
+[18Apr2025 22:35:43.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=52, z=-43}
+[18Apr2025 22:35:43.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=53, z=-42}
+[18Apr2025 22:35:43.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=52, z=-42}
+[18Apr2025 22:35:45.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=52, z=-42}
+[18Apr2025 22:35:46.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-65, y=52, z=-43}
+[18Apr2025 22:35:46.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=52, z=-45}
+[18Apr2025 22:35:49.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=53, z=-43}
+[18Apr2025 22:35:50.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=52, z=-43}
+[18Apr2025 22:35:50.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=53, z=-43}
+[18Apr2025 22:35:50.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=54, z=-42}
+[18Apr2025 22:35:50.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=53, z=-42}
+[18Apr2025 22:35:50.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=52, z=-42}
+[18Apr2025 22:35:51.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=53, z=-42}
+[18Apr2025 22:35:51.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=53, z=-42}
+[18Apr2025 22:35:51.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-65, y=52, z=-43}
+[18Apr2025 22:35:51.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-65, y=52, z=-43}
+[18Apr2025 22:35:51.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=52, z=-43}
+[18Apr2025 22:35:51.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-68, y=53, z=-44}
+[18Apr2025 22:35:51.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-68, y=53, z=-44}
+[18Apr2025 22:35:52.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=52, z=-45}
+[18Apr2025 22:35:52.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-65, y=52, z=-46}
+[18Apr2025 22:35:54.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=52, z=-47}
+[18Apr2025 22:35:54.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-64, y=51, z=-47}
+[18Apr2025 22:35:55.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-68, y=53, z=-44}
+[18Apr2025 22:35:58.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
+[18Apr2025 22:35:59.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=51, z=-45}
+[18Apr2025 22:35:59.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=50, z=-46}
+[18Apr2025 22:35:59.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=51, z=-45}
+[18Apr2025 22:35:59.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-66, y=52, z=-45}
