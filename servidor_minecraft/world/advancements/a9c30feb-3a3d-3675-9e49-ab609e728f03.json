@@ -1893,8 +1893,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-19 00:00:29 +0000",
       "cooked_mutton": "2025-04-18 22:51:26 +0000",
       "cooked_beef": "2025-04-18 22:55:32 +0000",
+      "bread": "2025-04-19 00:02:41 +0000",
       "rotten_flesh": "2025-04-18 23:47:40 +0000",
       "glow_berries": "2025-04-18 23:42:49 +0000",
       "cooked_rabbit": "2025-04-18 23:08:38 +0000",
@@ -2115,6 +2117,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-18 23:04:11 +0000",
+      "minecraft:spider": "2025-04-19 00:08:56 +0000",
       "minecraft:creeper": "2025-04-18 23:10:29 +0000",
       "minecraft:zombie": "2025-04-18 23:16:23 +0000"
     },
@@ -2924,9 +2927,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_chicken": "2025-04-18 23:57:35 +0000"
+      "iron_chestplate": "2025-04-18 23:49:41 +0000"
     },
     "done": true
   },
@@ -2936,21 +2939,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-04-18 23:57:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-18 23:57:24 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "iron_chestplate": "2025-04-18 23:49:41 +0000"
+      "has_beef": "2025-04-18 23:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 23:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 23:57:35 +0000"
     },
     "done": true
   },
@@ -2960,9 +2969,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "has_beef": "2025-04-18 23:57:24 +0000"
+      "has_hay_block": "2025-04-19 00:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 00:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-19 00:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-19 00:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-19 00:03:05 +0000"
     },
     "done": true
   },

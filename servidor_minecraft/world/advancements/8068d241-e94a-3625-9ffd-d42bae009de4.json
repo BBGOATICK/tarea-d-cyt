@@ -841,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-18 23:58:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 22:48:29 +0000"
@@ -3327,9 +3333,16 @@
       "minecraft:snowy_slopes": "2025-04-18 22:57:18 +0000",
       "minecraft:river": "2025-04-18 22:44:46 +0000",
       "minecraft:jagged_peaks": "2025-04-18 23:11:12 +0000",
+      "minecraft:meadow": "2025-04-19 00:04:15 +0000",
       "minecraft:plains": "2025-04-18 22:43:52 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 00:07:45 +0000"
+    },
+    "done": true
   },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
