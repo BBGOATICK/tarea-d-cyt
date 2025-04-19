@@ -4113,9 +4113,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-19 06:22:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 06:47:23 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/andesite_post": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-19 06:36:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-19 06:21:23 +0000"
     },
     "done": true
   },
@@ -4125,9 +4197,129 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-19 06:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-19 06:36:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-19 06:18:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-19 06:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-19 06:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-19 06:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-19 06:30:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-19 06:21:25 +0000"
     },
     "done": true
   },
