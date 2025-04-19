@@ -60,3 +60,263 @@
 [19Apr2025 00:11:36.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 0.9193961796827637
 [19Apr2025 00:11:36.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 1.438688435586073
 [19Apr2025 00:11:37.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 1.9455137778070366
+[19Apr2025 00:13:51.400] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-638.1899999976158, 55.929999977350235, -1011.1899999976158] -> [387.1899999976158, 62.770000010728836, 14.189999997615814] returning empty list! this might break things
+[19Apr2025 00:13:56.419] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-634.9311557248849, 54.99496326784933, -1008.77303310706] -> [390.44884427034674, 61.83496330122793, 16.6069668881716] returning empty list! this might break things
+[19Apr2025 00:14:01.442] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-646.6016682924251, 52.1459806425641, -1013.6722848824406] -> [378.77833170280655, 58.9859806759427, 11.70771511279105] returning empty list! this might break things
+[19Apr2025 00:16:25.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Your First Receptacle]
+[19Apr2025 00:17:21.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anghel956> tp
+[19Apr2025 00:17:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported Anghel956 to bruss23]
+[19Apr2025 00:22:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Gravedigger]
+[19Apr2025 00:22:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Pseudo Archaeologist]
+[19Apr2025 00:22:38.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has made the advancement [Gravedigger]
+[19Apr2025 00:23:32.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 0.5210341443071229
+[19Apr2025 00:23:32.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 1.044324591364557
+[19Apr2025 00:23:32.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of bruss23) moved wrongly! 1.56777123983656
+[19Apr2025 00:25:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:25:05.179] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:25:22.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 00:25:34.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has made the advancement [Ashes 'n Bones]
+[19Apr2025 00:25:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:25:35.836] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:25:38.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:25:38.547] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:25:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 00:25:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:25:49.672] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:25:58.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:25:58.585] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:26:00.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:26:00.196] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:02.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anghel956 lost connection: Disconnected
+[19Apr2025 00:26:02.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 left the game
+[19Apr2025 00:26:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:26:07.970] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:08.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Ghoul
+[19Apr2025 00:26:08.906] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:26:09.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-790, y=127, z=-259}
+[19Apr2025 00:26:15.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anghel956[/172.23.219.77:56690] logged in with entity id 50592 at (-29.5, 75.0, 73.5)
+[19Apr2025 00:26:15.054] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Apr2025 00:26:15.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 joined the game
+[19Apr2025 00:26:15.306] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19Apr2025 00:26:15.306] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19Apr2025 00:26:15.306] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19Apr2025 00:26:15.306] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19Apr2025 00:26:15.307] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/tarea-d-cyt/servidor_minecraft/bclib-sync (allowDelete=true)
+[19Apr2025 00:26:22.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:26:22.868] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[19Apr2025 00:26:27.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:26:27.054] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:26:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:26:34.732] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:26:46.530] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:26:46.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:26:46.663] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:26:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 has completed the challenge [Eye of the Tiger]
+[19Apr2025 00:26:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:26:49.250] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:26:53.348] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:57.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:26:57.894] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:26:59.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:26:59.275] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:27:02.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:27:02.079] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:27:07.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:27:07.083] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:27:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Ghoul
+[19Apr2025 00:27:14.336] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:27:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:27:19.705] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:27:22.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 00:27:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:27:33.328] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:27:36.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:27:36.585] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:27:44.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:27:44.079] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:27:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:27:48.071] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:27:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 has made the advancement [Ashes 'n Bones]
+[19Apr2025 00:28:08.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:28:08.134] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:28:15.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 00:29:11.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:29:11.624] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:29:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:29:17.856] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:30:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:30:00.379] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:30:08.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:30:08.153] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:30:48.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:30:49.042] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:30:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:30:56.550] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:31:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:31:16.848] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:31:28.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:31:28.822] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:32:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Ghoul
+[19Apr2025 00:32:01.404] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:32:19.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:32:20.159] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:32:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Ghoul
+[19Apr2025 00:32:27.637] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:32:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:32:42.077] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:33:13.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:33:13.217] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:33:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:33:18.790] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:33:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:33:48.615] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:33:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:33:51.991] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:34:00.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Ghoul
+[19Apr2025 00:34:01.238] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:34:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:34:34.869] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:34:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:34:39.472] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:34:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:34:44.153] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:34:51.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:34:51.977] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:34:55.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:34:55.154] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:34:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:34:56.061] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:34:59.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:34:59.803] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:03.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:35:03.833] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:35:05.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:05.162] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:10.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:35:10.405] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:35:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:16.307] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Thrall
+[19Apr2025 00:35:16.805] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:35:28.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:28.301] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:41.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:41.532] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:47.051] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:49.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:35:50.126] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:35:51.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:51.506] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:35:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 has reached the goal [Bone Crusher]
+[19Apr2025 00:35:57.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:35:57.404] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:35:58.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:35:58.404] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:36:05.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:36:05.870] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:36:14.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Scuttler
+[19Apr2025 00:36:14.458] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:36:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Ghoul
+[19Apr2025 00:36:40.589] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:36:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:36:45.958] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:36:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:36:50.455] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:36:58.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:36:58.773] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:36:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:36:58.971] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:37:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:37:04.863] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:37:19.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:37:19.326] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:37:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Thrall
+[19Apr2025 00:37:26.229] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:37:36.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:37:36.612] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:37:36.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:37:36.981] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:37:43.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Ghoul
+[19Apr2025 00:37:43.109] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:37:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:37:46.503] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:37:52.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:37:52.263] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:37:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:37:53.315] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:37:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:37:57.055] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:38:02.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:38:02.179] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:38:07.179] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:38:12.455] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Thrall
+[19Apr2025 00:38:17.908] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[19Apr2025 00:38:34.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:38:35.154] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:36.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Thrall
+[19Apr2025 00:38:36.770] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:38:37.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Scuttler
+[19Apr2025 00:38:37.041] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:38:45.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:38:45.457] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:38:59.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:38:59.534] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:39:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:39:05.609] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:39:11.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Gave 1 [Ender Pearl] to 3]
+[19Apr2025 00:39:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:39:12.710] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:39:13.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 was slain by Dread Knight
+[19Apr2025 00:39:13.799] [Server thread/INFO] [tombstone/]: The player bruss23 has successfully been saved
+[19Apr2025 00:39:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Ghoul
+[19Apr2025 00:39:24.199] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:39:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:39:46.917] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:09.821] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:10.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Scuttler
+[19Apr2025 00:40:10.324] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:40:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was slain by Dread Knight
+[19Apr2025 00:40:25.648] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:40:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:36.750] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:41.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:41.771] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 was doomed to fall by Dread Scuttler
+[19Apr2025 00:40:44.500] [Server thread/INFO] [tombstone/]: The player elbbtick2142 has successfully been saved
+[19Apr2025 00:40:46.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:46.526] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:51.511] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:40:51.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 00:40:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:40:58.018] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:41:17.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported bruss23 to elbbtick2142]
+[19Apr2025 00:41:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:41:30.056] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:41:35.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:41:35.369] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved
+[19Apr2025 00:41:36.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported bruss23 to elbbtick2142]
+[19Apr2025 00:41:39.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anghel956 was slain by Dread Knight
+[19Apr2025 00:41:39.962] [Server thread/INFO] [tombstone/]: The player Anghel956 has successfully been saved

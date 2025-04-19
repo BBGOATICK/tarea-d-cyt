@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-19 00:16:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
@@ -224,6 +230,12 @@
   "betternether:recipes/redstone/piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-18 22:47:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -254,6 +266,12 @@
   "adorn:recipes/oak_post": {
     "criteria": {
       "has_oak_planks": "2025-04-18 22:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-18 23:13:18 +0000"
@@ -332,6 +356,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
     },
     "done": true
   },
@@ -371,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-18 22:48:03 +0000"
@@ -404,6 +440,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-18 23:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-19 00:21:19 +0000"
     },
     "done": true
   },
@@ -443,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
       "has_item": "2025-04-18 23:04:35 +0000"
@@ -458,6 +506,18 @@
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -482,6 +542,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-18 22:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -619,9 +685,21 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/iron_shelf": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 00:07:59 +0000"
     },
     "done": true
   },
@@ -700,6 +778,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-18 22:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:35 +0000"
     },
     "done": true
   },
@@ -961,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "vs_eureka:recipes/balloon_wool": {
     "criteria": {
       "has_wool": "2025-04-18 23:38:14 +0000"
@@ -988,6 +1078,12 @@
   "betternether:root": {
     "criteria": {
       "welcome": "2025-04-18 22:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -1102,9 +1198,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-18 22:59:39 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_chair": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
     },
     "done": true
   },
@@ -1165,6 +1273,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2025-04-19 00:22:26 +0000"
     },
     "done": true
   },
@@ -1234,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
@@ -1291,6 +1411,18 @@
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -1450,6 +1582,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-04-18 23:15:38 +0000"
@@ -1498,9 +1636,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 00:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-18 22:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -1624,9 +1774,21 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_reed_gate": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -1696,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 23:04:22 +0000"
@@ -1705,6 +1873,12 @@
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-04-18 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -1786,9 +1960,21 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_platform": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-18 22:52:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -1834,6 +2020,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_table": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2025-04-18 23:15:38 +0000"
@@ -1858,6 +2050,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_step": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
@@ -1876,6 +2080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-19 00:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-18 23:04:22 +0000"
@@ -1885,6 +2095,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-19 00:07:59 +0000"
     },
     "done": true
   },
@@ -1942,6 +2158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 22:47:44 +0000"
@@ -1960,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_diamond": {
     "criteria": {
       "has_crafting_table": "2025-04-18 22:47:53 +0000"
@@ -1969,6 +2197,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_post": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
     },
     "done": true
   },
@@ -2056,6 +2290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-19 00:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-04-18 22:51:46 +0000"
@@ -2071,6 +2311,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_sign": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
     },
     "done": true
   },
@@ -2110,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
@@ -2119,6 +2371,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-18 23:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
     },
     "done": true
   },
@@ -2137,6 +2395,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -2170,6 +2434,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
@@ -2185,6 +2455,12 @@
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-19 00:22:21 +0000"
     },
     "done": true
   },
@@ -2266,6 +2542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/cobblestone_post": {
     "criteria": {
       "has_cobblestone": "2025-04-18 22:59:39 +0000"
@@ -2293,6 +2575,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-18 23:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-19 00:22:26 +0000"
     },
     "done": true
   },
@@ -2362,6 +2650,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-04-19 00:21:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 22:48:29 +0000"
@@ -2413,6 +2707,12 @@
   "betternether:recipes/decorations/spruce_taburet": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-19 00:10:33 +0000"
     },
     "done": true
   },
@@ -2518,6 +2818,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-19 00:16:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-04-18 23:03:18 +0000"
@@ -2557,6 +2863,12 @@
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 22:48:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-04-19 00:16:25 +0000"
     },
     "done": true
   },
@@ -2614,6 +2926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-18 22:59:34 +0000"
@@ -2653,6 +2971,12 @@
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-18 23:38:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-19 00:26:48 +0000"
     },
     "done": true
   },
@@ -2812,6 +3136,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/terminite_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_bulb_lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:35 +0000"
@@ -2920,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
@@ -2935,6 +3271,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2025-04-18 22:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-19 00:22:26 +0000"
     },
     "done": true
   },
@@ -2962,6 +3304,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-04-19 00:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-18 22:50:12 +0000"
@@ -2977,6 +3325,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-18 23:38:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-19 00:16:25 +0000"
     },
     "done": true
   },
@@ -3043,6 +3397,12 @@
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-04-19 00:36:28 +0000"
     },
     "done": true
   },
@@ -3118,6 +3478,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:36:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
@@ -3163,6 +3529,12 @@
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-19 00:07:59 +0000"
     },
     "done": true
   },
@@ -3332,6 +3704,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-18 22:57:18 +0000",
       "minecraft:river": "2025-04-18 22:44:46 +0000",
+      "minecraft:stony_shore": "2025-04-19 00:13:13 +0000",
       "minecraft:jagged_peaks": "2025-04-18 23:11:12 +0000",
       "minecraft:meadow": "2025-04-19 00:04:15 +0000",
       "minecraft:plains": "2025-04-18 22:43:52 +0000"
@@ -3380,12 +3753,20 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-04-19 00:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-18 22:53:15 +0000",
       "chicken": "2025-04-18 22:51:48 +0000",
+      "cooked_mutton": "2025-04-19 00:10:11 +0000",
       "cooked_beef": "2025-04-18 22:57:51 +0000",
       "porkchop": "2025-04-18 22:51:40 +0000",
+      "rotten_flesh": "2025-04-19 00:16:04 +0000",
       "cooked_chicken": "2025-04-18 23:20:10 +0000"
     },
     "done": false
@@ -3474,6 +3855,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern_blue": {
+    "criteria": {
+      "has_blue_dye": "2025-04-19 00:25:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 00:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-18 22:55:17 +0000"
@@ -3495,6 +3888,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-18 23:38:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:35 +0000"
     },
     "done": true
   },
@@ -3603,6 +4002,12 @@
   "betternether:recipes/decorations/spruce_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-18 22:52:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:35 +0000"
     },
     "done": true
   },

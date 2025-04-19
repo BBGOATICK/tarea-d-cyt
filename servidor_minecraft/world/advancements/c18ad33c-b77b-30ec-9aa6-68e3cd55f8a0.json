@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-18 23:35:34 +0000"
@@ -92,6 +98,12 @@
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-04-18 22:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-19 00:29:16 +0000"
     },
     "done": true
   },
@@ -365,6 +377,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/crate": {
     "criteria": {
       "has_key_item_0": "2025-04-18 22:45:32 +0000"
@@ -470,6 +488,18 @@
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 23:32:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-19 00:28:33 +0000"
     },
     "done": true
   },
@@ -656,6 +686,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_drawer": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "adorn:recipes/iron_shelf": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:33 +0000"
@@ -725,6 +761,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-18 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:37 +0000"
     },
     "done": true
   },
@@ -1145,6 +1187,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_chair": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:33 +0000"
@@ -1394,6 +1442,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-18 23:16:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:18 +0000"
     },
     "done": true
   },
@@ -1733,6 +1787,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_shelf": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_reed_gate": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -1907,9 +1967,21 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_platform": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-18 22:45:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:15 +0000"
     },
     "done": true
   },
@@ -1955,6 +2027,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_table": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2025-04-18 23:15:38 +0000"
@@ -1976,6 +2054,18 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-18 22:47:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:15 +0000"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_step": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
     },
     "done": true
   },
@@ -2102,6 +2192,12 @@
   "adorn:recipes/granite_post": {
     "criteria": {
       "has_granite": "2025-04-18 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-04-19 00:22:37 +0000"
     },
     "done": true
   },
@@ -2291,6 +2387,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-18 23:13:38 +0000"
@@ -2345,6 +2447,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-04-19 00:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-19 00:05:44 +0000"
@@ -2393,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-19 00:29:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-04-18 23:16:37 +0000"
@@ -2420,6 +2534,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-19 00:21:54 +0000"
     },
     "done": true
   },
@@ -2957,6 +3077,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-04-19 00:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 23:04:33 +0000"
@@ -3095,6 +3221,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-19 00:28:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -3161,9 +3293,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 00:35:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-04-19 00:25:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-18 23:32:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-04-19 00:28:33 +0000"
     },
     "done": true
   },
@@ -3251,6 +3401,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-18 22:47:20 +0000"
@@ -3329,9 +3485,21 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_coffee_table": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:21:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-19 00:09:22 +0000"
     },
     "done": true
   },
@@ -3568,6 +3736,7 @@
       "minecraft:snowy_slopes": "2025-04-18 22:54:22 +0000",
       "minecraft:river": "2025-04-18 22:51:26 +0000",
       "minecraft:stony_shore": "2025-04-18 22:48:51 +0000",
+      "minecraft:jagged_peaks": "2025-04-19 00:31:15 +0000",
       "minecraft:forest": "2025-04-18 22:59:00 +0000",
       "minecraft:deep_dark": "2025-04-18 23:21:26 +0000",
       "minecraft:meadow": "2025-04-18 23:55:40 +0000",
@@ -3638,6 +3807,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-18 22:59:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-04-19 00:25:24 +0000"
     },
     "done": true
   },
@@ -3770,6 +3945,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-18 22:59:28 +0000"
@@ -3866,6 +4047,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-19 00:22:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/taburet_cincinnasite": {
     "criteria": {
       "has_stick": "2025-04-18 22:46:42 +0000"
@@ -3911,6 +4098,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-04-18 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-19 00:24:18 +0000"
     },
     "done": true
   },
