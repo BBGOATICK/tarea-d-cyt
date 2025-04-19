@@ -1092,3 +1092,8 @@ ModdedBiomeSource (36add645)
 [19Apr2025 06:47:54.630] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-488.2941969037249, 54.545113554375654, -394.03212804855366] -> [537.0858030915067, 61.385113587754255, 631.347871946678] returning empty list! this might break things
 [19Apr2025 06:47:59.631] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-488.2941969037249, 54.545113554375654, -394.03212804855366] -> [537.0858030915067, 61.385113587754255, 631.347871946678] returning empty list! this might break things
 [19Apr2025 06:49:35.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elbbtick2142: Teleported elbbtick2142 to bruss23]
+[19Apr2025 06:56:24.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbbtick2142 lost connection: Timed out
+[19Apr2025 06:56:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbbtick2142 left the game
+[19Apr2025 06:56:24.784] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 06:56:24.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bruss23 lost connection: Disconnected
+[19Apr2025 06:56:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bruss23 left the game
